@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Abhishek! 👋
 
-<!--
-**Abhishek1132/Abhishek1132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Post-verse (Social media app).
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Prisma & NestJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Django Rest Framework, Database Designs, Nodejs, React, Express, Nestjs.
+
+### Languages and Tools:
+
+- Python ![Python](https://img.icons8.com/color/48/000000/python.png)
+- Django ![Django](https://img.icons8.com/color/48/000000/django.png)
+- Node.js ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+- React ![React](https://img.icons8.com/color/48/000000/react-native.png)
+- Prisma ![Prisma](https://prismalens.vercel.app/header/logo-white.svg)
+- NestJS ![NestJS](https://img.icons8.com/color/48/000000/nestjs.png)
+- Visual Studio Code ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
